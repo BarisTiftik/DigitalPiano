@@ -1,6 +1,10 @@
-# DigitalPiano
+# DigitalPiano for MSC 110 The Culture and Basics of Music Making
 
 A Virtual Piano :
+
+    Java Programming Language and Apache NetBeans IDE is used.
+    
+    - - - - - - - - - - - - - - - - - - - - 
 
     Buttons can be clicked using the cursor 
     
