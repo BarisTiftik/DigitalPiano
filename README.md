@@ -1,4 +1,4 @@
-# DigitalPiano for MSC 110 The Culture and Basics of Music Making
+# DigitalPiano for MSC 110 The Culture and Basics of Music Making Class
 
 A Virtual Piano :
 
